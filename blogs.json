@@ -1,0 +1,32 @@
+[
+    {
+      "image": "https://i.ibb.co/mzsS941/Emran-Vai-Phot.jpg",
+      "title": "Beautiful Sunset",
+      "date": "2023-07-01",
+      "description": "A stunning view of the sunset over the horizon."
+    },
+    {
+      "image": "https://i.ibb.co/qRdT00w/332476372-756969892234222-3004061911916866227-n.jpg",
+      "title": "Mountain Adventure",
+      "date": "2023-06-15",
+      "description": "An exciting hike through the majestic mountains."
+    },
+    {
+      "image": "image3.jpg",
+      "title": "City Lights",
+      "date": "2023-07-10",
+      "description": "The vibrant cityscape illuminated by night lights."
+    },
+    {
+      "image": "image4.jpg",
+      "title": "Serene Beach",
+      "date": "2023-07-05",
+      "description": "A peaceful beach with crystal clear waters and white sand."
+    },
+    {
+      "image": "image5.jpg",
+      "title": "Ancient Ruins",
+      "date": "2023-06-28",
+      "description": "Exploring the remnants of an ancient civilization."
+    }
+  ]
